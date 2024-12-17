@@ -25,7 +25,7 @@ This Power BI project analyzes sales data from Atliq Hardwares, a prominent comp
 - **Understanding Insights**: Review the insights, profit analysis, and performance insights for actionable outcomes.
 
 ## Power BI Link
-- [Sales_Insights_DA] https://app.powerbi.com/links/0kQWFtn0za?ctid=fc42da63-a990-45bc-8143-320165150d3c&pbi_source=linkShare
+- [Sales_Insights_DA] https://app.powerbi.com/view?r=eyJrIjoiOTkwNjhlY2QtNzhhOS00MTNkLWJhMTktM2JhMTgyMGNkY2FiIiwidCI6ImZjNDJkYTYzLWE5OTAtNDViYy04MTQzLTMyMDE2NTE1MGQzYyJ9
 
 ## Author
 - Saritha Bathini
